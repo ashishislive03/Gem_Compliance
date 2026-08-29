@@ -1,0 +1,22 @@
+[
+  {
+    "bidder_id": "BID-00001",
+    "profile_tag": "CLEAN",
+    "company_name": "Shree Solutions"
+  },
+  {
+    "bidder_id": "BID-00004",
+    "profile_tag": "MAJOR_ISSUES",
+    "company_name": "Star Textiles"
+  },
+  {
+    "bidder_id": "BID-00005",
+    "profile_tag": "MINOR_ISSUES",
+    "company_name": "Bharat Textiles"
+  },
+  {
+    "bidder_id": "BID-00011",
+    "profile_tag": "BLACKLISTED",
+    "company_name": "Global Solutions"
+  }
+]
